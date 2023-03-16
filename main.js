@@ -77,3 +77,7 @@ if (communication.payload.message.priority === "URGENT") {
   null;
 }
 
+
+
+console.log(`hello`)
+
